@@ -19,6 +19,6 @@ A mobile application built using **React Native + Expo** that helps users track 
 1. Clone the repository
 2. Install dependencies
    ```bash
- npm install
+   npm install
 
  
